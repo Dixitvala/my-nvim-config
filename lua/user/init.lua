@@ -1,0 +1,7 @@
+require("user.lazy")
+require("user.options")
+require("user.keymaps")
+require("user.plugins.color")
+require("user.plugins.telescope")
+require("user.plugins.tree-sitter")
+require("user.plugins.lualine")
